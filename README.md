@@ -1,6 +1,6 @@
 # Wildfire RL
 
-**Wildfire RL** is a reinforcement learning project for wildfire suppression agents, built using PyTorch.
+**Wildfire RL** is a reinforcement learning project for wildfire suppression agents, built using PyTorch and free-range-zoo.
 
 This project was developed for the **MOASEI 2025 Competition** (part of the AAMAS 2025 Competitions), and was awarded as the **winner of Track #3 (Wildfire)**.
 
