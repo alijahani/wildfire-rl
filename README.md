@@ -30,7 +30,7 @@ python WildfireEvaluation.py --model-to-load 180 --testing_episodes 500 --seed 1
 
 ## TODO
 
-- [ ] Add a proper license
+- [x] Add a proper license
 
 - [ ] Write a complete installation guide
 
@@ -46,8 +46,10 @@ python WildfireEvaluation.py --model-to-load 180 --testing_episodes 500 --seed 1
 
 ## License
 
-Copyright (C) 2025 Ali Jahani
+Copyright (C) 2025 Ali Jahani, Hossein Savari, Afsaneh Habibi
 
-This project is currently unlicensed. I might add a copyleft license later.
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
 
-Until then, all rights are reserved.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program; if not, see <https://www.gnu.org/licenses>.
